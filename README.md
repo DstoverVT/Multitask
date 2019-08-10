@@ -6,3 +6,5 @@ The game never ends, so the goal is to obtain the highest score. Directions on h
 
 Within the Java project's main package, Multitask.java contains the main method that can be executed to play Multitask.
 This project is intended for others to use and enjoy, not to edit.
+
+Currently, the game must be run on a 1920x1080 screen with the text size at 100%.
