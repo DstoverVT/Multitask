@@ -3,8 +3,6 @@ package com.multitask.dannystover;
 import java.awt.Graphics;
 import java.util.ArrayList;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
-
 public class Updater {
 
 	// this list is all the Updater is, it holds all the GameObjects in the game and
